@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Recovering infrastructure architect here to learn :octocat:
-
-Site under construction: https://lewtakris.github.io
+:octocat: Site under construction: https://lewtakris.github.io
 
 <!--
 **lewtakris/lewtakris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
