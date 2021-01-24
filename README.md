@@ -1,5 +1,4 @@
-#### Hi there 👋 :octocat:
-
+Hi there 👋  :octocat:
 I'm a recovering cybersecurity architect/leader learning new things :man_technologist:
 
 > I stumbled across this special repo to include a README.md in my profile and wanted to try it out.
