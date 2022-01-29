@@ -1,6 +1,4 @@
-#### Hi there 👋 :octocat:
-
-I'm a recovering cybersecurity leader/architect learning new things.  :man_technologist: 
+#### :man_technologist: Hi there 👋 :octocat:
 
 <!--
 **lewtakris/lewtakris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
