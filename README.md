@@ -1,4 +1,4 @@
-#### :man_technologist: Hi there 👋 :octocat:
+#### :man_technologist: 👋 :octocat:
 
 <!--
 **lewtakris/lewtakris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
