@@ -1,6 +1,6 @@
-#### :man_technologist:
-#### 👋 :octocat:
+👋 :octocat:
 
+:man_technologist: :triangular_flag_on_post:
 <!--
 **lewtakris/lewtakris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
